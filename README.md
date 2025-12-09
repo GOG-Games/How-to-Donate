@@ -8,9 +8,9 @@ Donations help maintain site infrastructure by paying for the ongoing costs of s
 A donation of 20 USD/EUR is required to receive a key to use the donor API endpoints. The key is valid for one year. Learn more by [clicking here](https://gog-games.to/docs).
 
 ## FTP Access/GG Downloader
-**Please note:** This is first come, first served. There are very limited slots available. It is currently: ${\textsf{\color{red}CLOSED}}$
+**Please note:** This is first come, first served. There are very limited slots available. If you do not renew It is currently: ${\textsf{\color{red}CLOSED}}$
 
-A minimum donation of 100 USD/EUR is required. This allows you to directly download from a high-speed server. Your access will be valid for one year. You will also receive the ability to use a custom downloading program (Windows 10/11 support only) that integrates with the website.
+A minimum donation of 100 USD/EUR is required. This allows you to directly download from a high-speed server. Your access will be valid for one year. You will also receive the ability to use a custom downloading program (Windows 10/11 support only) that integrates with the website. ${\textsf{\color{red}If you do not rewnew within 1 month after your access ends, you will have to wait until slots are open again.}}$
 
 # Methods of Payment
 
