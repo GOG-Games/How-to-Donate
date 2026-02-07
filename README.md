@@ -34,7 +34,10 @@ If you are a resident in the United States, you may use [Privacy.com](https://ww
 
 ## Cryptocurrency
 
-To increase anonymity, the only cryptocurrency accepted is [Monero](https://www.getmonero.org/) (XMR). Please see the [Alternative Cryptocurrencies](https://github.com/GOG-Games-com/wallet-addresses#alternative-cryptocurrencies) on how to donate with other coins. **Please be sure to enclose your transaction ID (TXID) in your email.**
+To increase anonymity, the only cryptocurrency accepted is [Monero](https://www.getmonero.org/) (XMR). Please see the [Alternative Cryptocurrencies](https://github.com/GOG-Games-com/wallet-addresses#alternative-cryptocurrencies) on how to donate with other coins. 
+
+> [!NOTE]
+> Please be sure to enclose your transaction ID (TXID) in your email.
 
 ### Monero (XMR)
 
