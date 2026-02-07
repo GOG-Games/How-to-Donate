@@ -16,7 +16,7 @@ A minimum donation of 100 USD/EUR is required. This allows you to directly downl
 
 > [!CAUTION]
 > If you currently have a slot and do not renew within 1 month after your access ends, you will have to wait until slots are open to gain access again.
-> 
+
 # Methods of Payment
 
 ## Azteco Bitcoin Voucher
