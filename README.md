@@ -4,7 +4,7 @@ Donations help maintain site infrastructure by paying for the ongoing costs of s
 
 # Transparency
 
-This section lists the reocurring expenses needed for the site to remain operational. All are costs below are yearly totals.
+This section lists the reocurring expenses needed for the site to remain operational. All costs below are yearly totals.
 
 - Domain: $42
 - Domain (backup): $15
