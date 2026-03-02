@@ -2,6 +2,20 @@
 
 Donations help maintain site infrastructure by paying for the ongoing costs of servers. You may donate any amount, but to receive benefits a minimum donation is required. **If you would like to receive benefits, please enclose information regarding your donation in an email to: [donate@gog-games.to](mailto:donate@gog-games.to?subject=Donation)**
 
+# Transparency
+
+This section lists the reocurring expenses needed for the site to remain operational. All are costs below are yearly totals.
+
+- Domain: $42
+- Domain (backup): $15
+- Hosting: $120
+- Storage server: $1,400
+- Seedbox: $310
+- Proton Mail: $84
+- VPN: $64
+
+Grand total: $2,035
+
 # Benefits
 
 ## Donor API
