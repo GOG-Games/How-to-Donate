@@ -24,7 +24,7 @@ A donation of 20 USD/EUR is required to receive a key to use the donor API endpo
 ## FTP Access/GG Downloader
 This donor benefit is first come first served as there are limited slots available. 
 > [!IMPORTANT]
-> There are 11 slots open currently. Slot availability  will close on March 15 if any remain.
+> There are no slots open currently.
 
 A minimum donation of 100 USD/EUR is required. This allows you to directly download from a high-speed server (dedicated 10Gbps uplink). Your access will be valid for one year. You will also receive the ability to use a custom downloading program (Windows 10/11 support only) that integrates with the website. 
 
